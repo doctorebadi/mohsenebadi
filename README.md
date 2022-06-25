@@ -1,3 +1,3 @@
-Senior web Developer ,ata scientist and Programming for kids specialist
-
-
+Senior web Developer
+Data scientist
+Programming for kids specialist
